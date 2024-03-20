@@ -1,4 +1,4 @@
-'''
+"""
 MIT License
 
 Copyright (c) 2024 David Carlstedt Ringius
@@ -29,9 +29,7 @@ Last update: 20/3/2024.
     -- DcfCR
 
 ------------------------------------------------------------------------------
-'''
-
-from json import loads
+"""
 
 
 def remove_code_comments(code):
